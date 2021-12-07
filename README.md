@@ -1,2 +1,2 @@
-# Castor-Straatnaam-Automatisch-Invullen
-Vult automatisch de Straat (Wegvak) van wegdeel vlak objecten in, binnen Castor (ArcGIS)
+# Castor-Straatnaam-Controleren
+Creert een shape waarmee je de WVK_ID kan controleren in je database
